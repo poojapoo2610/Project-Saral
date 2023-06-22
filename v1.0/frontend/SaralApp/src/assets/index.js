@@ -1,5 +1,5 @@
 export const Assets = {
-    AppLogo: require('./images/logo.jpeg'),
+    AppLogo: require('./images/logo.png'),
     Logout: require('./images/logout.jpg'),
     Support: require('./images/support.png'),
     Share: require('./images/share.png'),
